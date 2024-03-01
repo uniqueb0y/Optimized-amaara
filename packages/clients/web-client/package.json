@@ -1,0 +1,52 @@
+{
+  "name": "@amaaraseetu/web-client",
+  "version": "1.0.0",
+  "description": "amaaraseetu web client",
+  "author": "DockDevelopers",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "@amaaraseetu/types": "*",
+    "@apollo/client": "^3.8.7",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.18",
+    "@mui/material": "^5.14.18",
+    "@mui/x-date-pickers": "^6.18.7",
+    "@types/react-dom": "^18.2.15",
+    "dayjs": "^1.11.10",
+    "firebase": "^10.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ios-pwa-prompt-ts": "^1.0.3",
+    "react-otp-input": "^3.1.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.19.0",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^6.1.8",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/uuid": "^9.0.7"
+  }
+}

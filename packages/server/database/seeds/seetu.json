@@ -1,0 +1,14 @@
+[
+{
+    "id":"1",
+    "userId" : "1",
+    "amountPaid" : "100",
+    "dueDate" : "11-11-1996"
+},
+{
+    "id":"2",
+    "userId" : "2",
+    "amountPaid" : "100",
+    "dueDate" : "11-11-1996"
+}
+]

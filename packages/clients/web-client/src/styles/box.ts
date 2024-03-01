@@ -1,0 +1,15 @@
+export const parentBoxStyles = {
+    width: "100vw",
+    background: "white",
+    flexDirection: "column",
+    justifyContent: "center",
+    alignItems: "center",
+    display: "inline-flex",
+    paddingX: { xs: 3, sm: '20%', md: '25%' },
+    paddingY: { xs: 2, sm: 5, md: 3 },
+    backgroundImage: { xs: 'none', sm: 'url(/spots.svg)' },
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    backgroundAttachment: 'fixed',
+    backgroundRepeat: 'no-repeat',
+};

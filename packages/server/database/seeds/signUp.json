@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "firstName": "Dock",
+        "lastName": "Developers",
+        "gender" : "Female",
+        "email": "thedockdevelopers@gmail.com",
+        "phone": 123456789,
+        "authToken": "f04995d3-ffbe-667a-bf74-85396f169104",
+        "userTypeId": "1",
+        "isActive": true,
+        "dateOfBirth": "11-11-1996",
+        "isMainAccount" : "1",
+        "createdBy": "DockDevelopers",
+        "createdDate": "2011-06-14T04:12:36.123Z",
+        "updatedBy": "DockDevelopers",
+        "updatedDate": "2011-06-14T04:12:36.123Z",
+        "blockedBy": "DockDevelopers",
+        "blockedDate": "2011-06-14T04:12:36.123Z",
+        "deletedBy": "DockDevelopers",
+        "deletedDate": "2011-06-14T04:12:36.123Z"
+    },
+    {
+        "id": "f04995d3-ffbe-667a-bf74-85396f169104",
+        "firstName": "Dock1",
+        "lastName": "Developers1",
+        "email": "thedockdevelopers@gmail.com",
+        "gender" : "Female",
+        "phone": 123456789,
+        "authToken": "f04995d3-ffbe-667a-bf74-85396f169104",
+        "userRoleId": "f04995d3-ffbe-667a-bf74-85396f169104",
+        "isActive": true,
+        "createdBy": "DockDevelopers1",
+        "createdDate": "2011-06-14T04:12:36.123Z",
+        "updatedBy": "DockDevelopers1",
+        "updatedDate": "2011-06-14T04:12:36.123Z",
+        "blockedBy": "DockDevelopers1",
+        "blockedDate": "2011-06-14T04:12:36.123Z",
+        "deletedBy": "DockDevelopers1",
+        "deletedDate": "2011-06-14T04:12:36.123Z"
+    }
+]
